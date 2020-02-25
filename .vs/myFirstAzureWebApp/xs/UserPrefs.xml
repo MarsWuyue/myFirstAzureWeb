@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{454AF2D2-9E94-491F-8133-5328EA9A3E0E}|Default">
   <MonoDevelop.Ide.ItemProperties.myFirstAzureWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="18" Column="18" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="myFirstAzureWebApp" expanded="True">
-            <Node name="myFirstAzureWebApp" selected="True" />
+            <Node name="myFirstAzureWebApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
