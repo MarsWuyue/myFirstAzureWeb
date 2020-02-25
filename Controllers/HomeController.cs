@@ -15,7 +15,6 @@ namespace myFirstAzureWebApp.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            test build failed
             _logger = logger;
         }
 
